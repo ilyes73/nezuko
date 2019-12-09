@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  },
+  "name": "nezuko",
+  "version": "0.1.0",
+  "description": "bot",
+  "main": "main.js",
+  "repository": "https://github.com/ilyes73/nezuko.git",
+  "author": "ilyes73 <ilyes.du.73000@gmail.com>",
+  "license": "MIT"
+}
